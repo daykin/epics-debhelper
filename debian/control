@@ -1,7 +1,7 @@
 Source: epics-debhelper
 Section: devel
 Priority: optional
-Maintainer: Martin Konrad <konrad@frib.msu.edu>
+Maintainer: John Priller <priller@frib.msu.edu>
 Uploaders: Michael Davidsaver <mdavidsaver@gmail.com>,
            Ralph Lange <Ralph.Lange@gmx.de>
 Build-Depends: debhelper (>= 10),
