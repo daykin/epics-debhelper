@@ -1,3 +1,13 @@
+epics-debhelper (8.19-1nmu1) unstable; urgency=medium
+
+  [ Priller, John ]
+  * update maintainer to Priller
+
+  [ Evan Daykin ]
+  * check lintian version for creating overrides
+
+ -- Evan Daykin <daykin@frib.msu.edu>  Wed, 31 May 2023 11:16:09 -0400
+
 epics-debhelper (8.19) unstable; urgency=medium
 
   * Bump up standards version
