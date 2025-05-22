@@ -1,2 +1,3 @@
-# This package extends Debhelper and thus depends on Debhelper.
-epics-debhelper: binary-package-depends-on-toolchain-package depends: debhelper (>= 7.0.50~)
+# this is itself a toolchain package
+# it needs debhelper to function correctly
+epics-debhelper: binary-package-depends-on-toolchain-package Depends: debhelper*
