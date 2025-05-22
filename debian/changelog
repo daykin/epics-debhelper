@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 epics-debhelper (8.19-1nmu1) unstable; urgency=medium
 
   [ Priller, John ]
@@ -9,11 +10,16 @@ epics-debhelper (8.19-1nmu1) unstable; urgency=medium
  -- Evan Daykin <daykin@frib.msu.edu>  Wed, 31 May 2023 11:16:09 -0400
 
 epics-debhelper (8.19) unstable; urgency=medium
+=======
+epics-debhelper (12.0) unstable; urgency=medium
+>>>>>>> master
 
-  * Bump up standards version
-  * Override a Lintian warning
+  [ Evan Daykin ]
+  * Debian 12+ 
+  * Check version for override hint format
+  * bump standards-version and debhelper compat to latest
 
- -- Martin Konrad <konrad@frib.msu.edu>  Thu, 20 Jun 2019 14:03:52 -0400
+ -- Evan Daykin <daykin@frib.msu.edu>  Thu, 22 May 2025 13:51:14 -0400
 
 epics-debhelper (8.18) unstable; urgency=medium
 
